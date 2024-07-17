@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\rosla\OneDrive\Рабочий стол\Project\Project\Source.cpp(112,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\rosla\OneDrive\Рабочий стол\Project\Project\Source.cpp(178,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project.vcxproj -> C:\Users\rosla\OneDrive\Рабочий стол\Project\x64\Debug\Project.exe
